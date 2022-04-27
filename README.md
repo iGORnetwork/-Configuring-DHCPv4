@@ -3,7 +3,7 @@
 
 
 
-# Зададим базовые настройки маршрутизаторам и коммутаторам R1 R1 S1 S2
+# 2. Зададим базовые настройки маршрутизаторам и коммутаторам R1 R1 S1 S2
 
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_1.png)
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_2.png)
