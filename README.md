@@ -16,3 +16,6 @@
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_6.png)
 
 # 3. Настройка маршрутизации между сетями VLAN на маршрутизаторе R1
+
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_8.png)
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_9.png)
