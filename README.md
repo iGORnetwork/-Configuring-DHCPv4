@@ -24,3 +24,6 @@
 
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_10.png)
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_11.png)
+
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_12.png)
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_13.png)
