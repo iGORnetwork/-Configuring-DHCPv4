@@ -19,3 +19,5 @@
 
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_8.png)
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_9.png)
+
+# 4. Настроем E0/1 на R2, затем E0/0 и статическую маршрутизацию для обоих маршрутизаторов
