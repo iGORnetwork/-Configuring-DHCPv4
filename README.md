@@ -1,7 +1,7 @@
 # Создание сети и настройка основных параметров устройств
 ## 1. Создание схемы адресации согласно заданию 
 
-![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_7.png)
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_14.png)
 
 # 2. Зададим базовые настройки маршрутизаторам и коммутаторам R1 R1 S1 S2
 
