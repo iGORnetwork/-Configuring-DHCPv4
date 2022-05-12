@@ -34,3 +34,15 @@
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_16.png)
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_17.png)
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_18.png)
+
+# 6 Создадим сети VLAN на коммутаторе S1
+
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_19.png)
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_20.png)
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_21.png)
+
+
+
+
+
+
