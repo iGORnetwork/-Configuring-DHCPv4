@@ -44,6 +44,7 @@
 # 7 Настроем интерфейс S1 e0/0 в качестве транка 802.1Q.
 
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_22.png)
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_23.png)
 
 
 
