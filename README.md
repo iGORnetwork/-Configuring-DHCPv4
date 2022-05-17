@@ -46,6 +46,7 @@
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_22.png)
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_23.png)
 
+# 8 Настройка и проверка двух серверов DHCPv4 на R1
 
 
 
