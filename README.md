@@ -50,6 +50,11 @@
 
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_24.png)
 
+# 9 Настройка R2 в качестве агента DHCP-ретрансляции для локальной сети на E0/1
+
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_25.png)
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_26.png)
+
 
 
 
