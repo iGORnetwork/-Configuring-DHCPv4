@@ -48,6 +48,9 @@
 
 # 8 Настройка серверов DHCPv4 на R1
 
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_24.png)
+
+
 
 
 
