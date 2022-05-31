@@ -35,11 +35,11 @@
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_17.png)
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_18.png)
 
-# 6 Создадим сети VLAN на коммутаторе S2
+# 6 Настроем S2 VLAN1
 
-![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_19.png)
-![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_20.png)
-![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_21.png)
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_27.png)
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_28.png)
+
 
 # 7 Настроем интерфейс S1 e0/0 в качестве транка 802.1Q.
 
