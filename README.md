@@ -55,7 +55,8 @@
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_25.png)
 ![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_26.png)
 
+# 10 Проверим получает ли ip адрес PC-B по DHCP и проходит ли пинг до R1 e0/1
 
-
+![](https://github.com/iGORnetwork/-Configuring-DHCPv4/blob/main/image/Screenshot_29.png)
 
 
